@@ -4,3 +4,8 @@ Given two Datasets containging four moneths of ridesharing data needs to be insp
 Created where a bubble chart that shows the average fare verus the total number of drivers for each size based on total numer of drivers in each city type.  The total number of rides, average fare, and total number of drivers in each city had it's mean, median, and mode was determined. A box and whisker plot shows the number of rides, fares, and number of drivers for each city.  A Pie chart was created for each percent of total fares, percent total rides, and percent total drivers.
 After creating and understanding this information the exploratory part of the analytical process begins.  There are new Datasets to understand the information further. What type of Data and information is actually given to be precented.  Getting details are important and doing the graphs in the company colors helped visuals.  
 The Summary helps stakeholders make decisions about which type of cities need more driver support.  The describe() function on the DataFrame allowed us to bring the Data together.  It also allows them to look at which city type generate the most.
+
+Urban Types had a total of rides,  drivers, and fare. They had an average of per ride and drivers.
+Suburban Types had a total of rides,drivers, and fare They had an average of per ride and drivers.
+Rural Types had a total of rides, drivers, and fare They had an average of per ride and drivers.
+
